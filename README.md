@@ -1,8 +1,5 @@
  # Olá 👋, me chamo Alex Pinheiro Filho
- ## Profissional com experiência em Desenvolvimento Full Stack, com expertise em SQL, 
-.NET, ASP.NET e Angular. Atuo no desenvolvimento de soluções completas, desde o 
-back-end até o front-end e aplico tecnologias avançadas para criar sistemas eficientes 
-e otimizados.
+ ## Profissional com experiência em Desenvolvimento Full Stack, com expertise em SQL, .NET, ASP.NET e Angular. Atuo no desenvolvimento de soluções completas, desde o back-end até o front-end e aplico tecnologias avançadas para criar sistemas eficientes e otimizados.
 
 ### Habilidades e Ferramentas 
 
