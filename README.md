@@ -4,7 +4,8 @@
 ### Habilidades e Ferramentas 
 
 - Desenvolvimento Full Stack: 
-  • Desenvolvimento de aplicações web utilizando .NET, ASP.NET e Angular. 
+  • Desenvolvimento de aplicações web utilizando .NET, ASP.NET e Angular.
+  
   • Implementação de APIs RESTful para integração entre sistemas e comunicação com o front-end. 
   • Desenvolvimento de interfaces dinâmicas e responsivas com HTML, CSS, JavaScript e TypeScript. 
   • Utilização do Bootstrap e Angular Material para estilização e responsividade em aplicações Angular.
